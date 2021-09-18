@@ -1,7 +1,7 @@
 
 
 <!--
-**fadilniju/fadilniju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fadilniju/fadilniju** is ✨ _special_ ✨ Just Because This is what You See on My Profile .
 
 Here are some ideas to get you started:
 
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{fadilniju}/count.svg)
 
-##Twitter
+## Twitter
 ![Twitter Follow](https://img.shields.io/twitter/follow/HereFadil?color=Green&logo=appveyor&logoColor=appveyor&style=social)
